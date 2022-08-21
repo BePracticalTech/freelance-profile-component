@@ -1,0 +1,16 @@
+
+(Name)
+Jack Alvarez
+
+(heading)
+Freelance Designer
+
+(paragraph)
+I help agencies & brands to turn their ideas into designs. My heart is creativity and design and my head has always been business led. Which to this day has served me very well!
+
+(button1 text)
+hi@freedesigner.com
+
+(button2 text)
+SEE DESIGN WORK
+
